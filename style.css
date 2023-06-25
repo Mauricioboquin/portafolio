@@ -1,0 +1,26 @@
+.encabezado {
+    background-color: blueviolet;
+}
+
+.logoNav {
+    display: flex;
+}
+
+.logo {
+  
+}
+
+.textLogo {
+    font-size: 25px;
+}
+
+.menu { 
+    display: flex;
+    
+}
+
+.menuLink {
+    list-style: none;
+    text-decoration: none;
+    margin: 0 15px;
+}
