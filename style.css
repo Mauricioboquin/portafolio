@@ -1,26 +1,13 @@
-.encabezado {
-    background-color: blueviolet;
+.headerPrincipal .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
-.logoNav {
+.headerPrincipal-nav {
     display: flex;
 }
 
-.logo {
-  
-}
-
-.textLogo {
-    font-size: 25px;
-}
-
-.menu { 
-    display: flex;
-    
-}
-
-.menuLink {
-    list-style: none;
-    text-decoration: none;
+.headerPrincipal-nav-link {
     margin: 0 15px;
 }
